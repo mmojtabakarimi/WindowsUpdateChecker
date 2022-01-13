@@ -1,0 +1,9 @@
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\Topshelf.dll
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\Topshelf.xml
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\WinUpdateCheckSerive.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\WinUpdateCheckSerive.csproj.CopyComplete
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\WinUpdateCheckSerive.exe.config
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\WinUpdateCheckSerive.exe
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\WinUpdateCheckSerive.pdb
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\WinUpdateCheckSerive.exe
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\WinUpdateCheckSerive.pdb

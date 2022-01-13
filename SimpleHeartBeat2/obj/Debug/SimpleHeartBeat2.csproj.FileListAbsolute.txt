@@ -1,0 +1,9 @@
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\SimpleHeartBeat2.exe.config
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\SimpleHeartBeat2.exe
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\SimpleHeartBeat2.pdb
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\Topshelf.dll
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\bin\Debug\Topshelf.xml
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\SimpleHeartBeat2.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\SimpleHeartBeat2.csproj.CopyComplete
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\SimpleHeartBeat2.exe
+C:\Users\home\source\repos\SimpleHeartBeat2\SimpleHeartBeat2\obj\Debug\SimpleHeartBeat2.pdb
